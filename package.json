@@ -1,0 +1,23 @@
+{
+  "name": "googlesignin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "google",
+    "authentication",
+    "google",
+    "signin"
+  ],
+  "author": "Sagar R",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "google-auth-library": "^7.9.1",
+    "googleapis": "^85.0.0"
+  }
+}
